@@ -1,2 +1,2 @@
-The name is
+The original version is
 # python-exercises
